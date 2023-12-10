@@ -1,5 +1,5 @@
-# All unpinned blobs are from G980FXXUIHWH9
-# Vendor security patch level 2023-08-01
+# All unpinned blobs are from G980FXXSIHWJD
+# Vendor security patch level 2023-11-01
 
 # Audio
 vendor/etc/LVACFS_Configuration.txt
